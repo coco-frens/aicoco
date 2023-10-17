@@ -1,0 +1,9 @@
+{
+    "name": "AiCoco",
+    "description": "A generative NFT based on COCO, the meme created by Kero. Coco is the ultimate predator. He snaps, he flips and he drags you under the water",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVk69D4Pwtau8HPKamwXYz3tX6ETusmAiUJMtRN8UtJnX",
+    "banner_image": "https://gateway.pinata.cloud/ipfs/QmReXJYQ2D44BsyJHBjogBESgwuspYc49UUcsbSTtRLtLR",
+    "external_link": "https://www.cocoethtoken.com",
+    "seller_fee_basis_points": 200,
+    "fee_recipient": "0x76B7D88dd499C8D707eaaBFAfDf64451995Fe138"
+}
