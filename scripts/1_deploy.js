@@ -42,6 +42,7 @@ const run = async () => {
   }
 
   console.log("\nThe current deployer address is: " + owner.address)
+  console.log("the contract Uri is: " + process.env.BASE_URI + process.env.CONTRACT_CID )
   console.log("The current controller address is: " + process.env.CONTROLLER_ADDRESS)
   console.log("The current network to deploy on is: " + network)
   console.log("The BASE_URI to deploy with is: " + process.env.BASE_URI)
